@@ -64,7 +64,7 @@ public class Runner {
     derrick.writeJoke("What do you give to a sick lemon? Lemon aid!");
     jack.writeJoke("What do you call a farm that makes bad jokes? Corny!");
     studio54.groupRehearsal();   // see Exploration for expected output
-//AS
+//ASsaa
 /*
     //------ TESTING cabaretShow method ------
     System.out.println("----- TESTING cabaretShow method -----");
